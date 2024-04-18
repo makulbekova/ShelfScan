@@ -1,0 +1,66 @@
+﻿@model ShelfScan.Models.ApiEmployee
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1>Создать сотрудника</h1>
+            </div>
+        </div>
+    </div><!-- /.container-fluid -->
+</section>
+
+<!-- Main content -->
+<section class="content">
+    <div class="container-fluid">
+        <div class="card card-default">
+            <div class="card-header">
+                <h3 class="card-title">Создать нового сотрудника</h3>
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <form asp-action="Create">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div class="form-group">
+                                <label>ФИО</label>
+                                <input asp-for="FirstName" class="form-control" placeholder="Введите имя" />
+                                <span asp-validation-for="FirstName" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label>Номер телефона</label>
+                                <input asp-for="Phone" class="form-control" placeholder="Введите номер телефона" />
+                                <span asp-validation-for="Phone" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label>Пароль</label>
+                                <input asp-for="HashedPassword" class="form-control" placeholder="Введите пароль" />
+                                <span asp-validation-for="HashedPassword" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label>Роль</label>
+                                <select asp-for="RoleId" class="form-control" asp-items="ViewBag.RoleId">
+                                    <option value="">Выберите роль</option>
+                                    <!-- Add role options dynamically here -->
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <button type="submit" class="btn btn-primary">Создать</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+    </div>
+    <!-- /.container-fluid -->
+</section>
+<!-- /.content -->

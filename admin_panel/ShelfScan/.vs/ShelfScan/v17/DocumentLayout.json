@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\source\\repos\\ShelfScan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|c:\\users\\1\\source\\repos\\shelfscan\\shelfscan\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|solutionrelative:shelfscan\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|C:\\Users\\1\\source\\repos\\ShelfScan\\shelfscan\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|solutionrelative:shelfscan\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|C:\\Users\\1\\source\\repos\\ShelfScan\\shelfscan\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|solutionrelative:shelfscan\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|C:\\Users\\1\\source\\repos\\ShelfScan\\shelfscan\\views\\locations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|solutionrelative:shelfscan\\views\\locations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|C:\\Users\\1\\source\\repos\\ShelfScan\\shelfscan\\models\\apiemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|solutionrelative:shelfscan\\models\\apiemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|C:\\Users\\1\\source\\repos\\ShelfScan\\shelfscan\\models\\apiproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|solutionrelative:shelfscan\\models\\apiproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|C:\\Users\\1\\source\\repos\\ShelfScan\\shelfscan\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|solutionrelative:shelfscan\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|C:\\Users\\1\\source\\repos\\ShelfScan\\shelfscan\\controllers\\scanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|solutionrelative:shelfscan\\controllers\\scanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|C:\\Users\\1\\source\\repos\\ShelfScan\\shelfscan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|solutionrelative:shelfscan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|C:\\Users\\1\\source\\repos\\ShelfScan\\shelfscan\\models\\apiscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|solutionrelative:shelfscan\\models\\apiscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|C:\\Users\\1\\source\\repos\\ShelfScan\\shelfscan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|solutionrelative:shelfscan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|C:\\Users\\1\\source\\repos\\ShelfScan\\shelfscan\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|solutionrelative:shelfscan\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|C:\\Users\\1\\source\\repos\\ShelfScan\\shelfscan\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|solutionrelative:shelfscan\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|C:\\Users\\1\\source\\repos\\ShelfScan\\shelfscan\\models\\apirole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|solutionrelative:shelfscan\\models\\apirole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|C:\\Users\\1\\source\\repos\\ShelfScan\\shelfscan\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|solutionrelative:shelfscan\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|C:\\Users\\1\\source\\repos\\ShelfScan\\shelfscan\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|solutionrelative:shelfscan\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|C:\\Users\\1\\source\\repos\\ShelfScan\\shelfscan\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|solutionrelative:shelfscan\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|C:\\Users\\1\\source\\repos\\ShelfScan\\shelfscan\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C39C76C3-6FED-4C80-91AB-DA8AD41BD623}|ShelfScan\\ShelfScan.csproj|solutionrelative:shelfscan\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Views\\Locations\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShelfScan\\Views\\Locations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Views\\Locations\\Index.cshtml",
+              "RelativeToolTip": "ShelfScan\\Views\\Locations\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T22:04:32.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "ShelfScan\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "ShelfScan\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:04:20.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Models\\ApiEmployee.cs",
+              "RelativeDocumentMoniker": "ShelfScan\\Models\\ApiEmployee.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Models\\ApiEmployee.cs",
+              "RelativeToolTip": "ShelfScan\\Models\\ApiEmployee.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA9wCQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:36:12.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShelfScan\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ShelfScan\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T22:22:24.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocationsController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Controllers\\LocationsController.cs",
+              "RelativeDocumentMoniker": "ShelfScan\\Controllers\\LocationsController.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Controllers\\LocationsController.cs",
+              "RelativeToolTip": "ShelfScan\\Controllers\\LocationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:44:42.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ShelfScan\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ShelfScan\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwFUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:45:46.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScansController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Controllers\\ScansController.cs",
+              "RelativeDocumentMoniker": "ShelfScan\\Controllers\\ScansController.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Controllers\\ScansController.cs",
+              "RelativeToolTip": "ShelfScan\\Controllers\\ScansController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:47:13.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ShelfScan\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ShelfScan\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:49:02.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiProduct.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Models\\ApiProduct.cs",
+              "RelativeDocumentMoniker": "ShelfScan\\Models\\ApiProduct.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Models\\ApiProduct.cs",
+              "RelativeToolTip": "ShelfScan\\Models\\ApiProduct.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:22:39.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShelfScan\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShelfScan\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAIoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T17:39:23.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShelfScan\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "ShelfScan\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T18:27:18.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ShelfScan\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ShelfScan\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:50:28.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiScan.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Models\\ApiScan.cs",
+              "RelativeDocumentMoniker": "ShelfScan\\Models\\ApiScan.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Models\\ApiScan.cs",
+              "RelativeToolTip": "ShelfScan\\Models\\ApiScan.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA6wCYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:59:22.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiRole.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Models\\ApiRole.cs",
+              "RelativeDocumentMoniker": "ShelfScan\\Models\\ApiRole.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Models\\ApiRole.cs",
+              "RelativeToolTip": "ShelfScan\\Models\\ApiRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:08:56.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "ShelfScan\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "ShelfScan\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T18:38:23.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Views\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ShelfScan\\Views\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Views\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "ShelfScan\\Views\\Employees\\Delete.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwDkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T18:15:19.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ShelfScan\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ShelfScan\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T18:21:56.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ShelfScan\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\ShelfScan\\ShelfScan\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ShelfScan\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T18:43:35.972Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+﻿@model IEnumerable<ShelfScan.Models.ApiLocation>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!-- Content Header (Page header) -->
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1>Точки</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <a asp-area="" asp-controller="Locations" asp-action="Create" target="_blank" class="btn btn-outline-success" style="margin-right: 10px;">Добавить</a>
+                </ol>
+            </div>
+        </div>
+    </div><!-- /.container-fluid -->
+</section>
+
+
+<!-- Main content -->
+<section class="content">
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title">Data</h3>
+        </div>
+        <!-- /.card-header -->
+        <div class="card-body">
+            <div class="table-responsive">
+                <table id="locationTable" class="table table-bordered table-hover">
+                    <thead>
+                        <tr>
+                            <th>Название</th>
+                            <th>Город</th>
+                            <th>Адрес</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                                <td>@Html.DisplayFor(modelItem => item.City.Name)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Address)</td>
+                                <td class="text-right" style="width: 100px;">
+                                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-outline-info btn-sm"><i class="bi bi-pencil-square"></i></a>
+                                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger btn-sm"><i class="bi bi-trash"></i></a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <!-- /.card-body -->
+    </div>
+    <!-- /.card -->
+</section>
+<!-- /.content -->

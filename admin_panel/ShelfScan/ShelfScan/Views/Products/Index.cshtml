@@ -1,0 +1,105 @@
+﻿@model IEnumerable<ShelfScan.Models.ApiProduct>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!-- Content Header (Page header) -->
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1>Продукты</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <a asp-action="Create" class="btn btn-outline-success" style="margin-right: 10px;">Добавить</a>
+                </ol>
+            </div>
+        </div>
+    </div><!-- /.container-fluid -->
+</section>
+
+<!-- Main content -->
+<section class="content">
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title">Данные</h3>
+            <div class="float-sm-right">
+                <a href="@Url.Action("DownloadCsv", "Product")" class="btn btn-secondary" style="margin-right: 10px;">CSV</a>
+                <a href="@Url.Action("DownloadExcel", "Product")" class="btn btn-secondary">Excel</a>
+            </div>
+        </div>
+        <!-- /.card-header -->
+        <div class="card-body">
+            <div class="table-responsive">
+                <table id="productTable" class="table table-bordered table-hover">
+                    <thead>
+                        <tr>
+                            <th>Название</th>
+                            <th>SKU</th>
+                            <th>Цена обычная</th>
+                            <th>Цена акционная</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Sku)</td>
+                                <td>
+                                    @if (item.ApiPrices.Any())
+                                    {
+                                        var regularPrice = item.ApiPrices.FirstOrDefault(p => p.IsSpecialOffer);
+                                        if (regularPrice != null)
+                                        {
+                                            @regularPrice.Price
+                                        }
+                                        else
+                                        {
+                                            <span>-</span>
+                                        }
+                                    }
+                                    else
+                                    {
+                                        <span>-</span>
+                                    }
+                                </td>
+                                <td>
+                                    @if (item.ApiPrices.Any())
+                                    {
+                                        var salePrice = item.ApiPrices.FirstOrDefault(p => !p.IsSpecialOffer);
+                                        if (salePrice != null)
+                                        {
+                                            @salePrice.Price 
+                                        }
+                                        else
+                                        {
+                                            <span>-</span>
+                                        }
+                                    }
+                                    else
+                                    {
+                                        <span>-</span>
+                                    }
+                                </td>
+                                <td>
+
+                                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+        <!-- /.card-body -->
+    </div>
+    <!-- /.card -->
+</section>
+<!-- /.content -->
